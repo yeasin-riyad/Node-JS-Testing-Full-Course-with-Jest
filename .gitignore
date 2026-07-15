@@ -1,0 +1,20 @@
+# Dependencies
+**/node_modules/
+
+# Production builds
+**/dist/
+
+# Local environment variables
+**/.env
+**/.env.*
+!**/.env.example
+
+# NestJS build logs and CLI cache
+**/.nest/
+**/npm-debug.log*
+**/yarn-error.log*
+**/.pnpm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
