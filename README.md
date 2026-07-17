@@ -1,4 +1,4 @@
-# 🚀 Node.js Testing Practise with Jest
+# 🚀 Node.js Testing with Jest
 
 > A practical, beginner → intermediate guide to mastering **Node.js Testing** with **Jest** and **TypeScript**.
 
